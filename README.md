@@ -1,4 +1,4 @@
-# Excel Project – Student Marks Dashboard
+# Excel Project1 – Student Marks Dashboard
 
 This Excel file contains a basic dashboard of student marks using simple Excel functions and tools.
 
@@ -11,3 +11,20 @@ This Excel file contains a basic dashboard of student marks using simple Excel f
 
 ## Tools Used
 - Microsoft Excel (Basic level)
+- 
+
+# Excel Project2 – To-Do Task Tracker
+
+A simple Excel sheet to track daily study and work tasks.
+
+# Features
+- Task list with due dates
+- Status tracking (Pending, Completed, Not Started)
+- Priority column (High, Medium)
+- Ready for adding filters, conditional formatting, or progress charts
+
+# Tools Used
+- Microsoft Excel
+
+
+
